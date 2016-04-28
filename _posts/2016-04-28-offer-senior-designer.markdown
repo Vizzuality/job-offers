@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Senior Designer"
-date:   2016-05-15 10:36:23
+date:   2016-04-28 10:36:23
 categories: design
 ---
 
@@ -35,7 +35,7 @@ Vizzuality is a creative digital agency based in Madrid and Cambridge. We design
 
 ## To apply:
 
-Send your portfolio by May the 8th. It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV.
+Send your portfolio by May the 15th. It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV.
 
 
 If you think you’re right for this position, please send us your CV + portfolio and salary expectations as detailed above to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)**.
