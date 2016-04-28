@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Senior Designer"
-date:   2015-10-01 10:36:23
+date:   2016-05-08 10:36:23
 categories: design
 ---
 
