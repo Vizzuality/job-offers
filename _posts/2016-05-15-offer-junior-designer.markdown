@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Junior Designer"
-date:   2015-10-01 10:36:22
+date:   2016-05-15 10:36:22
 categories: design
 ---
 
@@ -18,15 +18,15 @@ Vizzuality is a creative digital agency based in Madrid and Cambridge. We design
 * Understanding and helping define functional requirements, specifications and wireframes
 * Helping create high fidelity mock-ups.
 * Create design specifications outlining all aspects of the user journey.
-* Create visual systems and guidelines to communicate design specifications (like illustration style, color palettes and typography) based on interactivity requirements. 
-* Communicating design specifications to the team working on a day-to-day basis 
+* Create visual systems and guidelines to communicate design specifications (like illustration style, color palettes and typography) based on interactivity requirements.
+* Communicating design specifications to the team working on a day-to-day basis
 * Analyzing data with an eye for translating it into visualizations
 * Collaborate with developers, designers and project managers while advocating for the best user experience as well as proper integration of design guidelines.
 
 
 ## Required skills:
 
-* 1 - 3 years of experience 
+* 1 - 3 years of experience
 * Thorough knowledge of Sketch, Illustrator, Photoshop, Invisionapp and CSS
 * Can listen keenly and communicate clearly with human beings
 * Fluent english (written and spoken) is required.
@@ -35,7 +35,7 @@ Vizzuality is a creative digital agency based in Madrid and Cambridge. We design
 
 ## To apply:
 
-It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV. 
+It can be via dribbble, behance or in whatever online medium you want. Please refrain from sending PDFs or other attachments that can spam our inboxes or servers. Be fluent in English; if you can’t speak, write, and understand it, please do not send us your CV.
 
 
-If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)**.  
+If you think you’re right for this position, please send us your CV + portfolio as detailed above to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)**.
