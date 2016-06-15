@@ -13,7 +13,7 @@ We are a creative digital agency based in Madrid, Spain and Cambridge, England w
 
 We take pride in developing high quality open source code that can handle large amounts of data and deliver a memorable user experience. For this we use the latest technologies in the front and back ends of our projects, like REACT, redux, ES6, NodeJS, Rails 4+, Docker, Postgres, MongoDB, amongst others. We enjoy experimenting with new technologies and approaches, facing technical challenges and pushing the boundaries of what can be done with data on the web.
 
-We are looking for a curious individual who is as passionate about the internet and Open Source as they about developing their own career and knowledge of new technology. 
+We are looking for a curious individual who is as passionate about the internet and Open Source as they are about developing their own career and knowledge of new technology. 
 
 ## Daily tasks include but aren’t limited to the following:
 
