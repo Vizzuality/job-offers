@@ -26,10 +26,10 @@ We are looking for a curious individual who is as passionate about the internet 
 
 Additional tasks might include:
 
-*Representing and talking about our work at conferences and events
-*Liaising with our data scientist, social scientist, project managers and designers to find novel and creative ways to manage and display data in maps and visualizations 
-*Participating in the development of project proposals
-*Mentoring your peers or giving talks to the rest of the team so they can learn from your experience
+* Representing and talking about our work at conferences and events
+* Liaising with our data scientist, social scientist, project managers and designers to find novel and creative ways to manage and display data in maps and visualizations 
+* Participating in the development of project proposals
+* Mentoring your peers or giving talks to the rest of the team so they can learn from your experience
 
 ## We value both technical and personal skills that include the following:
 
