@@ -33,7 +33,7 @@ Additional tasks might include:
 
 ## We value both professional and personal skills that include the following:
 
-Technical
+Professional
 
 * Proven experience of developing large scale applications and APIs
 
@@ -59,7 +59,7 @@ Technical
 
 Personal
 
-* A passion for visual storytelling and creative data hacking
+* A passion for visual storytelling and creative hacking
 
 * A passion for learning and sharing your knowledge with the rest of the team
 
