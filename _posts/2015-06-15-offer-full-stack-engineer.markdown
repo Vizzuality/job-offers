@@ -9,7 +9,7 @@ categories: development
 
 We’re looking for a full stack engineer to join our team. 
 
-We are a creative digital agency based in Madrid, Spain and Cambridge, England who use our skills to compel change that leads to a better world. We do this by designing and developing beautiful and useful web applications, mobile apps, interactive maps, data visualization products and state-of-the-art interfaces for international organizations who focus on conservation, development, open data and citizenship.
+We are a creative digital agency based in Madrid, Spain and Cambridge, England who use our skills to compel change that leads to a better world. We do this by designing and developing beautiful and useful web applications, mobile apps, interactive maps, data visualization products and state-of-the-art interfaces for international organizations who focus on environment, social development, open data and transparency.
 
 We take pride in developing high quality open source code that can handle large amounts of data and deliver a memorable user experience. For this we use the latest technologies in the front and back ends of our projects, like REACT, redux, ES6, NodeJS, Rails 4+, Docker, Postgres, MongoDB, amongst others. We enjoy experimenting with new technologies and approaches, facing technical challenges and pushing the boundaries of what can be done with data on the web.
 
