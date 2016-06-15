@@ -31,7 +31,7 @@ Additional tasks might include:
 * Participating in the development of project proposals
 * Mentoring your peers or giving talks to the rest of the team so they can learn from your experience
 
-## We value both technical and personal skills that include the following:
+## We value both professional and personal skills that include the following:
 
 Technical
 
