@@ -36,37 +36,23 @@ Additional tasks might include:
 Professional
 
 * Proven experience of developing large scale applications and APIs
-
 * Deep understanding of how the Web works, from client requests to server-side handling to front-end rendering
-
 * Interest in usability and design aesthetics
-
 * Experience with technologies such as Ruby on Rails 4+ and NodeJs
-
 * Experience with PostgreSQL, PostGIS, MongoDB and other databases
-
 * Experience of developing RESTful web services
-
 * Experience of working with cloud services and platforms (AWS, Heroku, etc.)
-
 * Familiar with test-driven development, automated deployment and continuous integration
-
 * Familiar with javascript, both server and client side
-
 * Familiar with agile development methodologies
-
 * Familiar with Git or other version control systems
 
 Personal
 
 * A passion for visual storytelling and creative hacking
-
 * A passion for learning and sharing your knowledge with the rest of the team
-
 * A desire to make a difference to people’s lives and the environment
-
 * Good communication skills and an ability to give constructive feedback, both good and bad, and positively act on the feedback you receive yourself
-
 * Ability to read, write and speak English
 
 In return for your skills and knowledge, we can offer you the chance to engage in innovative and appealing projects within a creative work environment. We also offer a competitive salary, flexible schedules and many opportunities to learn and grow with a diverse team of specialists. 
