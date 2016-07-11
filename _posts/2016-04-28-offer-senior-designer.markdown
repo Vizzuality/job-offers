@@ -8,7 +8,9 @@ categories: design
 ## Job Summary:
 
 We are looking for a talented and innovative UX/UI Designer to work with us to change the world with ground breaking data design. 
+
 Vizzuality is a creative digital agency based in Madrid and Cambridge. Our talented team of designers, engineers and scientists work together to end malaria, stop deforestation and tackle climate change. We do this by designing and developing data-driven tools and applications for international organizations who focus on conservation, development, open data and transparency. With our help, they’re able to share their stories with people more effectively and compel behaviour changes that lead to a better world for everybody.
+
 We’re looking for people who are passionate about using their creativity and skills to make a difference to people’s lives and the environment. In return we offer opportunities to work on innovative and potentially world-changing projects. We also offer a competitive salary, flexible schedules and many opportunities to learn and grow with a supportive and diverse team of specialists.
 This job will be based in our Headquarters in Madrid. 
 
