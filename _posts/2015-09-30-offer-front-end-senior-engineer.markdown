@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Front-End Engineer"
-date:   2015-10-01 10:36:23
+date:   2016-10-01 10:36:23
 categories: development
 ---
 
@@ -9,9 +9,11 @@ categories: development
 
 We are looking for a senior front end engineer to join our team on a full time contract in our office in Madrid.
 
-We are a creative digital agency based in Madrid and Cambridge. We design and develop web applications, mobile apps, interactive maps, data visualization products and state-of-the-art interfaces for international organizations focusing on conservation, development, open data and citizenship.
+Vizzuality is a world-leading data design agency based in Madrid, Cambridge and Washington DC. Our talented team of designers, engineers and scientists work together to end malaria, stop deforestation and tackle climate change. We do this by designing and developing data-driven tools and applications for international organizations who focus on conservation, development, open data and transparency. With our help, they’re able to share their stories with people more effectively and compel behaviour changes that lead to a better world for everybody.
 
-We seek a curious individual, passionate about internet and Open Source who wants to develop a career with us and learn new skills.
+We’re looking for people who are passionate about using their creativity and skills to make a difference to people’s lives and the environment. In return we offer opportunities to work on innovative and potentially world-changing projects. We also offer a competitive salary, flexible schedules and many opportunities to learn and grow with a supportive and diverse team of specialists.
+
+This job will be based in our Headquarters in Madrid. We seek a curious individual, passionate about internet and Open Source who wants to develop a career with us and learn new skills.
 
 
 ## Daily tasks would include:
@@ -37,7 +39,8 @@ We seek a curious individual, passionate about internet and Open Source who want
 * Experience using RESTful web services
 * Ability to read, write and speak English
 
+## To apply:
 
-We offer the chance to engage into innovative and appealing projects in a creative work environment with a competitive salary, flexible schedules and opportunities to learn and evolve in a diverse and very specialized team.
+Send us a sample of your code and a short CV. Sending PDFs and other attachments can spam our inboxes or servers; we don't want you to miss out because of that. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
 
 If you are interested drop us a line to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)** or come have a coffee with us.
