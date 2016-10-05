@@ -9,7 +9,7 @@ categories: development
 
 We’re looking for a full stack engineer to join our team. 
 
-Vizzuality is a world-leading data design agency based in Madrid, Cambridge and Washington DC. Our talented team of designers, engineers and scientists work together to end malaria, stop deforestation and tackle climate change. We do this by designing and developing data-driven tools and applications for international organizations who focus on conservation, development, open data and transparency. With our help, they’re able to share their stories with people more effectively and compel behaviour changes that lead to a better world for everybody.
+Vizzuality is a world-leading data design agency based in Madrid, Cambridge and Washington DC. Our talented team of designers, engineers and scientists work together to end malaria, stop deforestation and tackle climate change. We do this by designing and developing data-driven tools and applications for international organizations who focus on conservation, development, open data and transparency. We build high-end applications and APIs to help these organisations serve data to new audiences.  
 
 We’re looking for people who are passionate about using their creativity and skills to make a difference to people’s lives and the environment. In return we offer opportunities to work on innovative and potentially world-changing projects. We also offer a competitive salary, flexible schedules and many opportunities to learn and grow with a supportive and diverse team of specialists.
 
@@ -51,6 +51,6 @@ Additional tasks might include:
 * Ability to read, write and speak English
 
 ## To apply:
-Send us a sample of your code and a short CV. Sending PDFs and other attachments can spam our inboxes or servers; we don't want you to miss out because of that. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
+Send us a sample of your code and a short CV. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
 
 If you are interested drop us a line to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)** or come have a coffee with us.
