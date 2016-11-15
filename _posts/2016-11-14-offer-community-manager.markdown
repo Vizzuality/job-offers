@@ -5,8 +5,8 @@ date:   2016-11-14
 categories: community
 ---
 
-*Hello! Thanks for checking out this post for our newest hire in Washington, DC. If you like what you see, send us your resume and a short note so we can learn more about you. We look forward to hearing from you.
--Ashley and the vizzuality team*
+*Hello! Thanks for checking out this post for our newest hire in Washington, DC. If you like what you see, send us your resume and a short note so we can learn more about you. We look forward to hearing from you.*
+*Ashley and the vizzuality team*
 
 ## Job opportunity:
 
@@ -17,7 +17,7 @@ As the second hire in vizzuality’s new DC office, you’ll work directly with 
 ## As community manager, your focus areas will be:
 
 Community building through communications and marketing
-* Partner with our VP to foster our community in DC – brainstorming new business development initiatives to grow our network, planning and executing local events,  identifying conferences and speaking opportunities to promote our work, and other experiments for outreach
+* Partner with our VP to foster our community in DC – brainstorming new business development initiatives to grow our network, planning and executing local events, identifying conferences and speaking opportunities to promote our work, and other experiments for outreach
 * Collaborate with our Lead Writer and other teammates to explore new ideas for social media and other marketing or communications pieces, and write articles about vizzuality’s work
 
 Business development research and proposal writing
