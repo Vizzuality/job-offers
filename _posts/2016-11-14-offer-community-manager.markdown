@@ -16,16 +16,16 @@ As the second hire in vizzuality’s new DC office, you’ll work directly with 
 
 ## As community manager, your focus areas will be:
 
-Community building through communications and marketing
+## Community building through communications and marketing
 * Partner with our VP to foster our community in DC – brainstorming new business development initiatives to grow our network, planning and executing local events, identifying conferences and speaking opportunities to promote our work, and other experiments for outreach
 * Collaborate with our Lead Writer and other teammates to explore new ideas for social media and other marketing or communications pieces, and write articles about vizzuality’s work
 
-Business development research and proposal writing
+## Business development research and proposal writing
 * Author written proposals and presentations for new business, in collaboration with others across our team
 * Research opportunities to pitch our work to new clients or partners 
 * Help shape our point of view on what types of projects we should be taking on
 
-Rolling up your sleeves to support our work and our growth
+## Rolling up your sleeves to support our work and our growth
 * Act as ‘right-hand’ for our VP – managing office logistics and other administrative or project-related tasks as needed
 * Support the creation of office rituals and traditions (birthdays, lunchtime know-hows, and other team building activities)
 
