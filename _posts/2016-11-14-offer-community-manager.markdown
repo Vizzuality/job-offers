@@ -40,4 +40,4 @@ In this role you’ll need to feel comfortable balancing lots of priorities and 
 * Are passionate about working on some of the greatest social and environmental challenges of our time.  
 
 ## To apply:
-Ready to apply? Great! Send your resume and a short note to introduce yourself to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)**. We look forward to hearing from you. Vizzuality is an equal opportunity employer.  
+Ready to apply? Great! Send your resume and a short note to introduce yourself to **[jobs+cm@vizzuality.com](mailto:jobs+cm@vizzuality.com)**. We look forward to hearing from you. Vizzuality is an equal opportunity employer.  
