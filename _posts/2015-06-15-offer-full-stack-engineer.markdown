@@ -53,4 +53,4 @@ Additional tasks might include:
 ## To apply:
 Send us a sample of your code and a short CV. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
 
-If you are interested drop us a line to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)** or come have a coffee with us.
+If you are interested drop us a line to **[jobs+fse@vizzuality.com](mailto:jobs+fse@vizzuality.com)** or come have a coffee with us.

@@ -43,4 +43,4 @@ This job will be based in our Headquarters in Madrid. We seek a curious individu
 
 Send us a sample of your code and a short CV. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
 
-If you are interested drop us a line to **[jobs@vizzuality.com](mailto:jobs@vizzuality.com)** or come have a coffee with us.
+If you are interested drop us a line to **[jobs+fee@vizzuality.com](mailto:jobs+fee@vizzuality.com)** or come have a coffee with us.
