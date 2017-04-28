@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Full Stack Engineer"
-date:   2016-10-01 
+date:   2017-04-28 
 categories: development
 ---
 
