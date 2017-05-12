@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Job offer: Front-End Engineer"
-date:   2016-10-01 10:36:23
+date:   2017-05-12 10:36:23
 categories: development
 ---
 
@@ -30,12 +30,13 @@ This job will be based in our Headquarters in Madrid. We seek a curious individu
 * Deep understanding of how the Web works, from client requests to server-side handling to front-end rendering
 * Passionate about learning and sharing newer technologies with the team
 * Interest in usability and design aesthetics
-* Good knowledge of visualization libraries like D3.
-* Proficiency in HTML5 & CSS3.
+* Experience with frameworks like React, React Native, Angular 2
+* Good knowledge of maps and visualization libraries like D3 or Leaflet.
+* Proficiency in JavaScript, HTML5 & CSS3.
 * Experience working with CSS's pre-processors
 * Skills for creating responsive websites
 * Familiarity with Git or other version control systems
-* Experience working with and setting up frameworks like Backbone or Ruby on Rails
+* Familiarity server-side frameworks and environments like Ruby on Rails or Node.js
 * Experience using RESTful web services
 * Ability to read, write and speak English
 
