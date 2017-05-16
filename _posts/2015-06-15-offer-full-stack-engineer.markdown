@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job offer: Full Stack Engineer"
+title:  "Job opening: Full Stack Engineer"
 date:   2017-04-28 
 categories: development
 ---
