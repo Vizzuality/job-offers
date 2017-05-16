@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job offer: Front-End Engineer"
+title:  "Job opening: Front-End Engineer"
 date:   2017-05-12 10:36:23
 categories: development
 ---
