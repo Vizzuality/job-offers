@@ -5,7 +5,7 @@ date:   2017-04-28
 categories: development
 ---
 
-## Job opportunity:
+## Job Summary:
 
 We’re looking for a full stack engineer to join our team. 
 
