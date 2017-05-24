@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Job offer: Senior Designer"
+title:  "Job opening: Senior Designer"
 date:   2016-10-01
-categories: design
+categories: Design
 ---
 
 ## Job Summary:
@@ -16,7 +16,7 @@ We’re looking for people who are passionate about using their creativity and s
 This job will be based in our Headquarters in Madrid. 
 
 
-## Responsibilities:
+## Daily tasks would include:
 
 * Develop user flows, interaction models and personas.
 * Solve complex problems involving screen layout and interface design
@@ -26,7 +26,7 @@ This job will be based in our Headquarters in Madrid.
 * Create visual systems and guidelines to communicate design specifications (like illustration style, color palettes and typography) based on interactivity requirements.
 * Communicating design specifications to the team working on a day-to-day basis
 * Analyzing data with an eye for translating it into visualizations
-* Collaborate with developers, designers and project managers while advocating for the best user experience as well as proper integration of design guidelines.
+* Collaborate with developers, designers, scientists, researchers and project managers while advocating for the best user experience as well as proper integration of design guidelines.
 
 
 ## Some of the skills we would value:
