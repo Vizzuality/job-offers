@@ -40,7 +40,5 @@ This job will be based at our Headquarters in Madrid.
 
 ## To apply:
 
-Send your portfolio: it can be via dribbble, behance or in whatever online medium you want so we can see your work in its full glory. Sending PDFs and other attachments can spam our inboxes or servers; we don’t want you to miss out because of that. As mentioned above fluent English is really important to us, so if it’s not your first language please demonstrate your abilities in your CV.
-
-
-If you think you’re right for this position, please send us your CV + portfolio to **[jobs+sd@vizzuality.com](mailto:jobs+sd@vizzuality.com)**.
+[Use this form] (https://vizzuality.bamboohr.co.uk/jobs/view.php?id=1)
+As mentioned above fluent English is really important to us, so if it’s not your first language please demonstrate your abilities in your CV and cover letter.
