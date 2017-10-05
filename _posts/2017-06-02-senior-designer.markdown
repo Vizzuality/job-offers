@@ -40,5 +40,5 @@ This job will be based at our Headquarters in Madrid.
 
 ## To apply:
 
-[Use this form](https://vizzuality.bamboohr.co.uk/jobs/view.php?id=1)
+[Use this form.](https://vizzuality.bamboohr.co.uk/jobs/view.php?id=1)
 As mentioned above fluent English is really important to us, so if it’s not your first language please demonstrate your abilities in your CV and cover letter.
