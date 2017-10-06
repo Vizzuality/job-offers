@@ -40,6 +40,6 @@ This job will be based at our Headquarters in Madrid.
 
 ## To apply:
 
-Send us a sample of your code and a short CV. As mentioned above fluent English is really important to us, so if it's not your first language please demonstrate your abilities in your CV. 
+Send your portfolio: it can be via dribbble, behance or in whatever online medium you want so we can see your work in its full glory. Sending PDFs and other attachments can spam our inboxes or servers; we don’t want you to miss out because of that. As mentioned above fluent English is really important to us, so if it’s not your first language please demonstrate your abilities in your CV.
 
 If you are interested drop us a line to **[jobs+sd@vizzuality.com](mailto:jobs+sd@vizzuality.com)** or come have a coffee with us.
