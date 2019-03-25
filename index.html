@@ -8,23 +8,5 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Available positions</h1>
-
-  <ul class="post-list">
-    <li>
-      <h2><a class="post-link" href="https://vizzuality.bamboohr.co.uk/jobs/view.php?id=2">Job opening: Researcher</a></h2>
-      <span class="post-meta">Nov 6, 2017</span>
-    </li>
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
+ <div id="BambooHR"><script src="https://vizzuality.bamboohr.com/js/jobs2.php" type="text/javascript"></script><div id="BambooHR-Footer">Powered by<a href="http://www.bamboohr.com" target="_blank" rel="noopener external nofollow noreferrer"><img src="https://resources.bamboohr.com/images/footer-logo.png" alt="BambooHR - HR software"/></a></div></div>
 </div>
